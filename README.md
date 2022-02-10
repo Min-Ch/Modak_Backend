@@ -106,6 +106,8 @@ S3에 호스팅을 하면서 발생하는 쓸모없는 이미지들을 지워주
 
 ![cronjob](https://user-images.githubusercontent.com/84912594/137124088-d3a2bc59-decd-49f3-a695-863c92715880.jpg)
 
+[GitHub 링크](https://github.com/Min-Ch/Modak_S3cronjob)
+
 <br>
 
 ## Figma
